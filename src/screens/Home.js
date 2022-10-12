@@ -5,7 +5,7 @@ import {srvUsers, srvDelete} from '../api/ApiService';
 const Home = () => {
   const [posts, setPosts] = useState([]);
   const [limit, setLimit] = useState(5);
-  const [editingPost, setEditingPost] = useState({});
+  const [editingPost, setEditingPost] = useState({ title: '', body: '' });
 
   const getUsers = async () => {
     const data = await srvUsers();
