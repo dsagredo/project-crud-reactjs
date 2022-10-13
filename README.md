@@ -2,7 +2,7 @@
 <br>
 <div align="center">
   
-![rnfy](https://user-images.githubusercontent.com/24228373/194176872-c727eed1-4248-485e-9321-f44aee6be7c6.png)
+![Sin título-1](https://user-images.githubusercontent.com/24228373/195500114-f0ddfb2c-4185-49d7-ab30-fd39ad7edf2e.png)
 
 </div>
 
